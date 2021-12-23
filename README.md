@@ -1,10 +1,10 @@
 <!-- ![image](https://www.codewars.com/users/nehtr/badges/large) -->
 # Intro
 <!-- 🧠 Neurodivergent INTP-T  -->
-🖥️ Data scientist & machine learning engineer  
+**🖥️ Data scientist & machine learning engineer  
 ⚕️  Medicine & surgery student (paused)  
 📍 Italy, Milan  
-🇬🇧 🇮🇹 Speaking  
+🇬🇧 🇮🇹 Speaking**  
 
 # Skills
 
