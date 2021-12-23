@@ -10,6 +10,8 @@
 
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)  
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Nim-FFA500?style=flat-square&&logo=nim&logoColor=white)  
 ![](https://img.shields.io/badge/SQLite-232F3E?style=flat-square&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-07405E?style=flat-square&logo=mysql&logoColor=white)  
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
