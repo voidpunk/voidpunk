@@ -35,10 +35,10 @@
       <a href="https://t.me/https://t.me/voidpunk_glitch">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
       </a>
-      <a href="https://voidpunk.github.io/">&nbsp;&nbsp;
+      <a href="https://voidpunk.github.io/">
         <img src="https://img.shields.io/badge/Website-3a3c40?style=for-the-badge&label=%F0%9F%8C%90">
       </a>
-      <a href="mailto:voidpunk.glitch@gmail.com">&nbsp;&nbsp;
+      <a href="mailto:voidpunk.glitch@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
       </a>
     </div>
