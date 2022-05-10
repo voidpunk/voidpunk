@@ -2,7 +2,7 @@
   <h2 align="center">About</h2>
   <div align="center">
     <p>
-      🖥️ Data Scientist & AI Engineer<br>
+      🖥️ Data Scientist & AI Developer<br>
       ⚕️ Medicine & Surgery student (paused)<br>
       🌐 Full Stack Developer<br>
       🇬🇧 🇮🇹 Speaking   
