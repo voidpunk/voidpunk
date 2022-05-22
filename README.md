@@ -4,7 +4,6 @@
     <p>
       🖥️ Data Scientist & AI Developer<br>
       ⚕️ Medicine & Surgery student (paused)<br>
-      🌐 Full Stack Developer<br>
       🇬🇧 🇮🇹 Speaking   
     </p>
   </div>
