@@ -27,6 +27,10 @@
       <img src="https://img.shields.io/badge/MacOS-000?style=for-the-badge&logo=apple&logoColor=white">&nbsp;
       <img src="https://img.shields.io/badge/Windows-3D85C6?style=for-the-badge&logo=windows&logoColor=white">
     </div>
+    <br>
+    <div align="center">
+      <img src="https://www.codewars.com/users/voidpunk/badges/small">&nbsp;
+    </div>
   </div>
   <div>
     <h2 align="center">Contacts</h2>
