@@ -29,7 +29,9 @@
     </div>
     <br>
     <div align="center">
-      <img src="https://www.codewars.com/users/voidpunk/badges/small">&nbsp;
+      <a href="https://www.codewars.com/users/voidpunk">
+        <img src="https://www.codewars.com/users/voidpunk/badges/small">&nbsp;
+      </a>
     </div>
   </div>
   <div>
