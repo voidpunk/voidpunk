@@ -44,7 +44,7 @@
   <div align="center">
     <h2 align="center">Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=voidpunk&show_icons=true&theme=dark&hide_border=true&custom_title=Nil's+Github+Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=voidpunk&theme=dark&hide_border=true"/>
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=voidpunk&theme=dark&hide_border=true"/> -->
   </div>
   <br/>
     <h2 align="center">Contacts</h2>
