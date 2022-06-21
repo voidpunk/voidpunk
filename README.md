@@ -1,50 +1,65 @@
 <div >
-  <h2 align="center">About</h2>
   <div align="center">
+     <h1>
+       <img width="35px" src="https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/1F4BB.svg"/>
+         Biomedical Data Scientist
+       <img width="35px" src="https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/2695.svg"/>
+    </h1>
     <p>
-      🖥️ Data Scientist & AI Developer<br>
-      ⚕️ Medicine & Surgery student (paused)<br>
-      🇬🇧 🇮🇹 Speaking   
+      I am a young data scientist and machine-learning developer with a strong background in the biomedical and biotech fields.
     </p>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/1F1EE-1F1F9.svg"/>
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/1F1EC-1F1E7.svg"/>
+<!--     <div><h1></h1></div> -->
   </div>
+  <br/>
   <div>
     <h2 align="center">Skills</h2>
     <div align="center">
-      <img src="https://img.shields.io/badge/Python-2b5b83?style=for-the-badge&logo=python&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    </div>
-    <div align="center">
-      <img src="https://img.shields.io/badge/SQLite-232F3E?style=for-the-badge&logo=sqlite&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/MySQL-07405E?style=for-the-badge&logo=mysql&logoColor=white">
-    </div>
-    <div align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-    </div>
-    <div align="center">
-      <img src="https://img.shields.io/badge/Linux-444444?style=for-the-badge&logo=linux&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/MacOS-000?style=for-the-badge&logo=apple&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/Windows-3D85C6?style=for-the-badge&logo=windows&logoColor=white">
-    </div>
-    <br>
-    <div align="center">
       <a href="https://www.codewars.com/users/voidpunk">
-        <img src="https://www.codewars.com/users/voidpunk/badges/small">&nbsp;
+        <img src="https://www.codewars.com/users/voidpunk/badges/large">&nbsp;
       </a>
     </div>
+    <br/>
+    <div align="center">
+      <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+      <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+      <img height="80px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
+    </div>
+    <br/>
+    <div align="center">
+      <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+      <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+      <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>         
+    </div>
+    <br/>
+    <div align="center">
+      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+      <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/>          
+    </div>
+    <br/>
   </div>
   <div>
+  <div>
+    <h2 align="center">Stats</h2>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=voidpunk&theme=dark&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=voidpunk&show_icons=true&theme=dark&hide_border=true&custom_title=Nil's+Github+Stats"/>
+  </div>
+  <br/>
     <h2 align="center">Contacts</h2>
     <div align="center">
       <a href="https://t.me/https://t.me/voidpunk_glitch">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+        <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">&nbsp;&nbsp;&nbsp;&nbsp;
       </a>
       <a href="https://voidpunk.github.io/">
-        <img src="https://img.shields.io/badge/Website-3a3c40?style=for-the-badge&label=%F0%9F%8C%90">
+        <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Crystal_Clear_app_linneighborhood.svg">&nbsp;&nbsp;&nbsp;&nbsp;
       </a>
       <a href="mailto:voidpunk.glitch@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+      </a>
+      <a href="https://www.linkedin.com/in/voidpunk/">
+        <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
       </a>
     </div>
   </div>
