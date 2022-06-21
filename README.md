@@ -6,7 +6,7 @@
        <img width="35px" src="https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/2695.svg"/>
     </h1>
     <p>
-      I am a young data scientist and machine-learning developer with a strong background in the biomedical and biotech fields.
+      I am a junior data scientist and machine-learning developer with a strong background in the biomedical field.
     </p>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/1F1EE-1F1F9.svg"/>
     <img width="35px" src="https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/1F1EC-1F1E7.svg"/>
@@ -41,10 +41,10 @@
     <br/>
   </div>
   <div>
-  <div>
+  <div align="center">
     <h2 align="center">Stats</h2>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=voidpunk&theme=dark&hide_border=true"/>
     <img src="https://github-readme-stats.vercel.app/api?username=voidpunk&show_icons=true&theme=dark&hide_border=true&custom_title=Nil's+Github+Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=voidpunk&theme=dark&hide_border=true"/>
   </div>
   <br/>
     <h2 align="center">Contacts</h2>
