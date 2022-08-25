@@ -10,7 +10,6 @@
     </p>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/1F1EE-1F1F9.svg"/>
     <img width="35px" src="https://cdn.jsdelivr.net/gh/svgmoji/svgmoji/packages/svgmoji__noto/svg/1F1EC-1F1E7.svg"/>
-<!--     <div><h1></h1></div> -->
   </div>
   <br/>
   <div>
@@ -22,7 +21,8 @@
     </div>
     <br/>
     <div align="center">
-      <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+      <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+      <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
       <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
       <img height="80px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
     </div>
