@@ -15,12 +15,6 @@
   <div>
     <h2 align="center">Skills</h2>
     <div align="center">
-      <a href="https://www.codewars.com/users/voidpunk">
-        <img src="https://www.codewars.com/users/voidpunk/badges/large">&nbsp;
-      </a>
-    </div>
-    <br/>
-    <div align="center">
       <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
       <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
       <img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
@@ -43,6 +37,12 @@
   <div>
   <div align="center">
     <h2 align="center">Stats</h2>
+    <div align="center">
+      <a href="https://www.codewars.com/users/voidpunk">
+        <img src="https://www.codewars.com/users/voidpunk/badges/large">&nbsp;
+      </a>
+    </div>
+    <br/>
     <img src="https://github-readme-stats.vercel.app/api?username=voidpunk&show_icons=true&theme=dark&hide_border=true&custom_title=Nil's+Github+Stats"/>
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=voidpunk&theme=dark&hide_border=true"/> -->
   </div>
