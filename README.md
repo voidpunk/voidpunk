@@ -57,10 +57,12 @@
       </a>
       <a href="mailto:voidpunk.glitch@gmail.com">
         <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Circle-icons-mail.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+      <!--
       </a>
       <a href="https://www.linkedin.com/in/voidpunk/">
         <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
       </a>
+      -->
     </div>
   </div>
 </div>
