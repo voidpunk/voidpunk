@@ -21,7 +21,7 @@
   <div>
     <h2 align="center">Contacts 🇬🇧 🇮🇹</h2>
     <div align="center">
-      <a href="https://t.me/https://t.me/voidpunk_glitch">
+      <a href="https://t.me/voidpunk_glitch">
         <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">&nbsp;&nbsp;&nbsp;&nbsp;
       </a>
       <!-- <a href="https://voidpunk.github.io/">
