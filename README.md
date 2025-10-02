@@ -11,7 +11,7 @@
 <!--       <img height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> -->
       <img height="80px" src="https://raw.githubusercontent.com/nim-lang/assets/refs/heads/master/Art/logo-crown.svg" />
       <img height="80px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
-      <img height="80px" src="https://www.rust-lang.org/logos/rust-logo-512x512.png" />
+      <img height="80px" src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-512x512.png" />
     </div>
     <h2 align="center">Libraries</h2>
     <div align="center">
